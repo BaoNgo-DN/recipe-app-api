@@ -5,3 +5,5 @@ exclude =
   __pycache__,
   manage.py,
   settings.py
+
+#tells flake8 to ignore specific files and directories when checking code for style issues
