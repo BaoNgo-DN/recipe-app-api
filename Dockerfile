@@ -24,3 +24,5 @@ USER django-user
 # The && in command lines is a logical AND operator used in Unix-like shell environments (like bash).
 # It allows you to chain multiple commands together on a single line. 
 # Key thing about && is that the second command (and any subsequent commands) will only execute if the preceding command is successful
+
+# 
