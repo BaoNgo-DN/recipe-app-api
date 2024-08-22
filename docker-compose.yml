@@ -12,4 +12,7 @@ services:
       - ./app:/app
     command: >
       sh -c "python manage.py runserver 0.0.0.0:8000"
+      
  # Runs the Django development server, binding to all interfaces (0.0.0.0) on port 8000.
+ # sh: invoke shell in the container 
+ # -c: This flag tells the shell to execute the following command string.
